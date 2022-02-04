@@ -1,6 +1,6 @@
 """
 Micro Code 6.0.1
-Author Merwin
+Author Merwin Mathew
 
 In normal mode:
     1,20,000 chrs in 200x200 Image -15
