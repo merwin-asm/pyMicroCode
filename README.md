@@ -1,4 +1,3 @@
-
 # pyMicroCode 7.0.0
 
 It's a module to generate microcode(these are sort of like qrcode but have someother uses)
@@ -10,7 +9,6 @@ It's a module to generate microcode(these are sort of like qrcode but have someo
 - Have a lot of customisation freedom.
 - Secure(AES).
 - Data Compression.
-
 
 
 ## Examples
@@ -56,3 +54,11 @@ Read()
 ```python
 mc.Read("Hello_world.png","my_pass")
 ```
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Author
+
+- [@Merwin](https://github.com/mastercodermerwin)
