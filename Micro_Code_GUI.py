@@ -1,5 +1,5 @@
 import kivy
-import micro_core_6 as pyMicroCode
+import micro_code_7 as pyMicroCode
 from kivy.app import App
 from kivy.uix.label import Label
 from kivy.uix.gridlayout import GridLayout
@@ -71,8 +71,8 @@ class window_contents(GridLayout):
         self.inp_3.text = ""
         print(f"File_name : {file_name} /// Password : {password}")
         try:
-            ret , data= self.pyMicroCode.read(file_name,password)
-            if ret == False:
+            data= self.pyMicroCode.read(file_name,password)
+            if data == False:
                 self.label_4.text = "Password Wrong / Wrong Micro Code"
             else:
                 self.label_4.text = data
