@@ -1,5 +1,5 @@
 
-# pyMicroCode 6.0.2
+# pyMicroCode 7.0.0
 
 It's a module to generate microcode(these are sort of like qrcode but have someother uses)
 
@@ -9,6 +9,7 @@ It's a module to generate microcode(these are sort of like qrcode but have someo
 - Easy to use.
 - Have a lot of customisation freedom.
 - Secure(AES).
+- Data Compression.
 
 
 
