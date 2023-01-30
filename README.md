@@ -2,7 +2,7 @@
 
 It's a module to generate microcode(these are sort of like qrcode but have someother uses)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=meriwn-py-micro-code&label=Project%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=meriwn-py-micro-code&label=Project%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p> 
 
 
 ## Install 
