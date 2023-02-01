@@ -9,7 +9,7 @@ It's a module to generate microcode(these are sort of like qrcode but have someo
 
         pip install pyMicroCode
 
-## Features
+## Features 
 
 - Easy to use.
 - Have a lot of customisation freedom.
